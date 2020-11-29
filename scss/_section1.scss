@@ -1,0 +1,14 @@
+@import 'global';
+
+.sectionOne{
+    background-color: $naranja;
+}
+.disflex{
+    display: flex;
+    
+}
+
+.disflex>div{
+    margin-top: 130px;
+    margin-bottom: 130px;
+}

@@ -1,0 +1,19 @@
+@import 'global';
+@import 'navbar';
+@import 'section1';
+
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+h1{
+    font-family: 'Circular';
+    font-size: 64px;
+    color: $negro;
+    font-weight: 600;
+}
+.svg{
+    background-color: $azul;
+    text-align: end;
+}

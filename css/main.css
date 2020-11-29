@@ -1,0 +1,57 @@
+@font-face {
+  font-family: "Circular";
+  src: url("../font/Circular/CircularStd-Book.otf");
+}
+@font-face {
+  font-family: "Circular";
+  src: url("../font/Circular/CircularStd-Book.otf");
+}
+.logo {
+  width: 150px;
+}
+
+.bg-black {
+  background-color: black;
+}
+
+.nav-item {
+  color: #ffff;
+  font-family: "Circular";
+}
+
+@font-face {
+  font-family: "Circular";
+  src: url("../font/Circular/CircularStd-Book.otf");
+}
+.sectionOne {
+  background-color: #ff4632;
+}
+
+.disflex {
+  display: flex;
+}
+
+.disflex > div {
+  margin-top: 130px;
+  margin-bottom: 130px;
+}
+
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+h1 {
+  font-family: "Circular";
+  font-size: 64px;
+  color: black;
+  font-weight: 600;
+}
+
+.svg {
+  background-color: #2d46b9;
+  text-align: end;
+}
+
+/*# sourceMappingURL=main.css.map */
